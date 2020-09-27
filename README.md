@@ -1,5 +1,7 @@
 # KaliPi4
-Setting the Raspberry Pi to monitor mode using the internal network adapter. Requires Ubuntu OS/ Kali OS/ Parrot OS/ Raspbian OS
+Setting the Raspberry Pi to monitor mode using the internal network adapter. Requires Ubuntu OS/ Kali OS/ Parrot OS/ Raspbian OS.
+Preferable to use an external network adapter which supports MONITOR MODE. Find the name of the wireless adapter by using the iwconfig command.
+Use the name of the (wirelessAdapter) in place of wlan0mon below
 
 ### Update the package lists for Upgrades and fetch new versions of packages using
 ```
