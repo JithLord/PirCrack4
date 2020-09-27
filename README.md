@@ -1,12 +1,12 @@
 # KaliPi4
 Setting the Raspberry Pi to monitor mode using the internal network adapter. Requires Ubuntu OS/ Kali OS/ Parrot OS/ Raspbian OS
 
-### Update the package lists for Upgrades and fetch new versions of packages 
+### Update the package lists for Upgrades and fetch new versions of packages using
 ```
   sudo apt-get update && sudo apt-get ugprade
 ```
 
-### Install aircrack-ng tools if not installed
+### Install aircrack-ng tools if not installed using
 ```
   sudo apt-get install -y aircrack-ng
 ```
