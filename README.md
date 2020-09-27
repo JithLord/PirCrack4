@@ -21,7 +21,7 @@ Setting the Raspberry Pi to monitor mode using the internal network adapter. Req
   airmon-ng start wlan0
 ```
 
-### Don't worry about the error 'command failed: unknown error 524'. wlan0mon should appear at the bottom when you type iwconfig
+#### Don't worry about the error 'command failed: unknown error 524'. wlan0mon should appear at the bottom when you type iwconfig
 
 ### Kill processes using
 ```
