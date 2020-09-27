@@ -28,7 +28,7 @@ Setting the Raspberry Pi to monitor mode using the internal network adapter. Req
   airmon-ng check kill
 ```
 
-### Final Step to hear nearby devices
+### To hear nearby devices (Final Step) 
 ```
   airodump-ng wlan0mon
 ```
