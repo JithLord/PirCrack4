@@ -1,5 +1,6 @@
 # KaliPi4
-Setting the Raspberry Pi to monitor mode using the internal network adapter. Requires Kali OS with the nexmon patch.
+Setting the Raspberry Pi to monitor mode using the internal network adapter. Requires Kali OS with the nexmon patch available here https://www.offensive-security.com/kali-linux-arm-images/ and download the version **Kali Linux RaspberryPi 2 (v1.2), 3 and 4 (64-Bit)**. 
+
 ## IMPORTANT 
 I am not responsible to any damage that is caused by misusing the commands or any damage to your device (This will probably never happen).
 Preferable to use an external network adapter which supports MONITOR MODE. This can help you to hear nearby devices in the 5GHz bandwith too.
