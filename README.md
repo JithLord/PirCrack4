@@ -17,11 +17,13 @@ Use the name of the (wirelessAdapter) in place of wlan0mon below
   sudo apt-get install -y aircrack-ng
 ```
 
-### To run the script: Clone the repository and use
+## To run the script: Clone the repository and use
 ```
   chmod +x script.sh
   ./script.sh
 ```
+
+## Alternatively run the commands:
 
 ### To check for connected wireless extensions
 ```
