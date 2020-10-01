@@ -23,6 +23,7 @@ Use the name of the (wirelessAdapter) in place of wlan0mon below
   ./script.sh
 ```
 
+
 ## Alternatively run the commands:
 
 ### To check for connected wireless extensions
