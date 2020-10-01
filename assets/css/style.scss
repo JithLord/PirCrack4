@@ -2,3 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
+.language-plaintext highlighter-rouge {
+margin-block-start: 0.83em;
+}
