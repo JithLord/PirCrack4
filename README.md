@@ -1,4 +1,4 @@
-# KaliPi4
+# PirCrack4
 Setting the Raspberry Pi to monitor mode using the internal network adapter. Requires Kali OS with the nexmon patch available here https://www.offensive-security.com/kali-linux-arm-images/ and download the version **Kali Linux RaspberryPi 2 (v1.2), 3 and 4 (64-Bit)**. 
 
 ## IMPORTANT 
