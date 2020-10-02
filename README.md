@@ -29,7 +29,9 @@ Use the name of the (wirelessAdapter) in place of wlan0mon below
 ```
 
 
-## Alternatively run the commands:
+
+
+## or run the commands:
 
 ### To check for connected wireless extensions
 ```
