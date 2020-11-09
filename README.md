@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/45201620/94839751-0fd00180-0435-11eb-8ca6-5208e49a00fc.png)
 
-[![star this repo](https://githubbadges.com/star.svg?user=Jithlord&repo=PirCrack4&style=flat&color=fff&background=)](https://github.com/Jithlord/PirCrack4)
-[![fork this repo](https://githubbadges.com/fork.svg?user=Jithlord&repo=PirCrack4&style=flat&color=fff&background=)](https://github.com/Jithlord/PirCrack4/fork)
 Website: https://jithlord.github.io/PirCrack4/
 
 # PirCrack4
