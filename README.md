@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/45201620/94839751-0fd00180-0435-11eb-8ca6-5208e49a00fc.png)
 
 Website: https://jithlord.github.io/PirCrack4/
+Checkout my other projects on the website
 
 # PirCrack4
 Setting the Raspberry Pi to monitor mode using the internal network adapter. Requires Kali OS with the nexmon patch available here https://www.offensive-security.com/kali-linux-arm-images/ and download the version **Kali Linux RaspberryPi 2 (v1.2), 3 and 4 (64-Bit)**. 
@@ -32,6 +33,7 @@ Use the name of the (wirelessAdapter) in place of wlan0mon below
   chmod +x script.sh
   ./script.sh
 ```
+
 
 
 
