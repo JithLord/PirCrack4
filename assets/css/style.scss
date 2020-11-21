@@ -12,3 +12,20 @@ h1,h2,h3,h4 {
     color: rgb(224 26 34);
     text-shadow: rgba(45, 45, 45, 0.1) 0px 1px 1px, rgba(119, 141, 58, 0.1) 0px 0px 5px, rgba(119, 141, 58, 0.1) 0px 0px 10px;
 }
+.glow {
+  font-size: 80px;
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 20px #ff0000, 0 0 20px #ff0000, 0 0 20px #ff0000, 0 0 20px #ff0000, 0 0 20px #ff0000;
+  }
+  
+  to {
+    text-shadow: 0 0 5px #fff, 0 0 5px #B3FF00, 0 0 5px #B3FF00, 0 0 5px #B3FF00, 0 0 5px #B3FF00, 0 0 5px #B3FF00, 0 0 5px #B3FF00;
+  }
