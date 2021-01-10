@@ -9,6 +9,7 @@ Checkout my other projects on the website
 
 # PirCrack4
 Setting the Raspberry Pi to monitor mode using the internal network adapter. Requires Kali OS with the nexmon patch available here https://www.offensive-security.com/kali-linux-arm-images/ and download the version **Kali Linux RaspberryPi 2 (v1.2), 3 and 4 (64-Bit)**. 
+There are some issues with Raspberry Pi 4B 8GB version!
 
 ## Why this repository?
 Lack of proper documentation for the use of aircrack-ng tools on the Raspberry Pi 4's internal network adapter. Documentation for the use of external network adapters are also available on the official website for aircrack-ng.
