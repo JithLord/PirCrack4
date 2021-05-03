@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 ![image](https://user-images.githubusercontent.com/45201620/94839751-0fd00180-0435-11eb-8ca6-5208e49a00fc.png)
 
 Website: https://jithlord.github.io/PirCrack4/
